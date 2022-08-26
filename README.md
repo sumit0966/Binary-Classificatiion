@@ -1,7 +1,7 @@
 # Binary-Classificatiion
 
 Problem Statement :- 
-In this section we are implementing Convulutional Neural Network (CNN) classifier for classifying Cat and Dog.
+In this section we are implementing Convolutional Neural Network (CNN) classifier for classifying Cat and Dog.
 
 Datasets :- 
 The dataset provided consists of training data and testing data for both the categories.
