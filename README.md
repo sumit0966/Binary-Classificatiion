@@ -14,5 +14,5 @@ Numpy
 
 Solutions :- 
 The algorithm was trained on well classified and labelled image data consisting of 10,000 images.
-The accuracy obtained was around 82-83%.
+The accuracy obtained was around 90%.
 This code realizes a CNN for binary classification using tensorflow backened keras.
