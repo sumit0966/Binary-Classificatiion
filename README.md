@@ -1,4 +1,4 @@
-# Binary-Classificatiion
+# Binary-Classification
 
 Problem Statement :- 
 In this section we are implementing Convolutional Neural Network (CNN) classifier for classifying Cat and Dog.
